@@ -1,3 +1,6 @@
+#This is not the final version of task 2
+#This is an experimental file produced with 3d np arrays to record all the data of all planets
+
 #using numpy arrays
 import numpy as np 
 from pathlib import Path
